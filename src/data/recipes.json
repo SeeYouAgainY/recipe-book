@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Омлет с овощами",
+    "type": "breakfast",
+    "ingredients": ["Яйца", "Помидоры", "Лук"],
+    "instructions": "1. Взбить яйца...",
+    "time": "15 мин",
+    "image": "omelette.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Греческий салат",
+    "type": "lunch",
+    "ingredients": ["Помидоры", "Огурцы", "Оливки", "Сыр фета"],
+    "instructions": "1. Нарезать овощи...",
+    "time": "10 мин",
+    "image": "greek_salad.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Панкейки",
+    "type": "breakfast",
+    "ingredients": ["Мука", "Яйца", "Молоко", "Сахар"],
+    "instructions": "1. Смешать сухие ингредиенты...",
+    "time": "20 мин",
+    "image": "pancakes.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Курица карри",
+    "type": "dinner",
+    "ingredients": ["Куриное филе", "Лук", "Кокосовое молоко", "Карри-паста"],
+    "instructions": "1. Обжарить лук...",
+    "time": "40 мин",
+    "image": "chicken_curry.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Смузи из ягод",
+    "type": "snack",
+    "ingredients": ["Малина", "Бананы", "Йогурт", "Мёд"],
+    "instructions": "1. Смешать все ингредиенты в блендере...",
+    "time": "5 мин",
+    "image": "smoothie.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Паста Карбонара",
+    "type": "dinner",
+    "ingredients": ["Спагетти", "Бекон", "Яйца", "Пармезан"],
+    "instructions": "1. Отварить пасту...",
+    "time": "25 мин",
+    "image": "carbonara.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Овсяная каша",
+    "type": "breakfast",
+    "ingredients": ["Овсяные хлопья", "Молоко", "Мёд", "Орехи"],
+    "instructions": "1. Довести молоко до кипения...",
+    "time": "15 мин",
+    "image": "oatmeal.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Гуакамоле",
+    "type": "snack",
+    "ingredients": ["Авокадо", "Лимонный сок", "Помидор", "Кинза"],
+    "instructions": "1. Размять авокадо...",
+    "time": "10 мин",
+    "image": "guacamole.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Тыквенный суп",
+    "type": "lunch",
+    "ingredients": ["Тыква", "Лук", "Сливки", "Имбирь"],
+    "instructions": "1. Запечь тыкву...",
+    "time": "35 мин",
+    "image": "pumpkin_soup.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Шоколадный мусс",
+    "type": "dessert",
+    "ingredients": ["Тёмный шоколад", "Сливки", "Яйца"],
+    "instructions": "1. Растопить шоколад...",
+    "time": "30 мин",
+    "image": "chocolate_mousse.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Куриные наггетсы",
+    "type": "snack",
+    "ingredients": ["Куриное филе", "Панировочные сухари", "Яйца"],
+    "instructions": "1. Нарезать курицу...",
+    "time": "25 мин",
+    "image": "nuggets.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Брускетта с томатами",
+    "type": "appetizer",
+    "ingredients": ["Багет", "Помидоры", "Чеснок", "Базилик"],
+    "instructions": "1. Поджарить хлеб...",
+    "time": "10 мин",
+    "image": "bruschetta.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Лазанья",
+    "type": "dinner",
+    "ingredients": ["Листы лазаньи", "Фарш", "Соус бешамель", "Сыр"],
+    "instructions": "1. Слоить ингредиенты...",
+    "time": "60 мин",
+    "image": "lasagna.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Фруктовый салат",
+    "type": "dessert",
+    "ingredients": ["Яблоко", "Банан", "Киви", "Йогурт"],
+    "instructions": "1. Нарезать фрукты...",
+    "time": "10 мин",
+    "image": "fruit_salad.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Курица-гриль",
+    "type": "dinner",
+    "ingredients": ["Курица", "Лимон", "Чеснок", "Пряные травы"],
+    "instructions": "1. Замариновать курицу...",
+    "time": "50 мин",
+    "image": "grilled_chicken.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Тост с авокадо",
+    "type": "breakfast",
+    "ingredients": ["Хлеб", "Авокадо", "Яйцо", "Специи"],
+    "instructions": "1. Поджарить хлеб...",
+    "time": "10 мин",
+    "image": "avocado_toast.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Минестроне",
+    "type": "lunch",
+    "ingredients": ["Кабачок", "Морковь", "Фасоль", "Томаты"],
+    "instructions": "1. Обжарить овощи...",
+    "time": "45 мин",
+    "image": "minestrone.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Сырники",
+    "type": "breakfast",
+    "ingredients": ["Творог", "Яйца", "Мука", "Ванильный сахар"],
+    "instructions": "1. Смешать ингредиенты...",
+    "time": "25 мин",
+    "image": "syrniki.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Роллы Калифорния",
+    "type": "dinner",
+    "ingredients": ["Рис", "Нори", "Авокадо", "Крабовые палочки"],
+    "instructions": "1. Распределить рис...",
+    "time": "40 мин",
+    "image": "california_rolls.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Тирамису",
+    "type": "dessert",
+    "ingredients": ["Печенье Савоярди", "Сыр маскарпоне", "Кофе", "Какао"],
+    "instructions": "1. Приготовить крем...",
+    "time": "30 мин",
+    "image": "tiramisu.jpg"
+  }
+]
